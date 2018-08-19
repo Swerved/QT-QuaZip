@@ -1,5 +1,4 @@
 # Quazip 0.7.3
-# DLL for zlib is for MSVC only.
 # Useful Doc: http://quazip.sourceforge.net/
 # With thanks to VoidRealms
 # Uses zlib License
