@@ -1,7 +1,4 @@
 # Quazip 0.7.3
-# ZLIB.H is attached to QTCore directories. 
-# IF YOU UPDATE QT, THE INCLUDES MUST BE UPDATED OR THIS WILL FAIL TO COMPILE
-# FOR ORG PROJECT, SEE MYZIP2 C:\Users\lucas\Documents\vrealms\qt110-113\ZipVids\myzip2
 # DLL for zlib is for MSVC only.
 # Useful Doc: http://quazip.sourceforge.net/
 # With thanks to VoidRealms
