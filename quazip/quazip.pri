@@ -6,7 +6,6 @@
 #---
 
 #Set variables
-ZLIBCODEDIR =  $$PWD/zlib/1211/dll/release
 QUAZIPCODEDIR = $$PWD/quazip/073
 
 #include the compiled code -- WE ARE NOT USING UNIX PLATFORMS IN THIS PROJECT.
@@ -15,7 +14,6 @@ QUAZIPCODEDIR = $$PWD/quazip/073
 #}
 
 win32 {
-    LIBS += -L$${ZLIBCODEDIR} -lzlibwapi
     DEFINES += QUAZIP_STATIC
 }
 
